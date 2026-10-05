@@ -1,81 +1,78 @@
-<div align="center">
+<!-- =========================
+     Header
+========================= -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there%2C%20I'm%20Rahul%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there%2C%20I'm%20Rahul%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there%2C%20I'm%20Rahul%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient" alt="Rahul P">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Rahul%20P&fontSize=60&fontColor=FFFFFF&fontAlignY=35&color=0:00FF66,100:000000">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Rahul%20P&fontSize=60&fontColor=FFFFFF&fontAlignY=35&color=0:00FF66,100:000000">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Rahul%20P&fontSize=60&fontColor=FFFFFF&fontAlignY=35&color=0:00FF66,100:000000" width="100%" alt="Rahul P">
+  </picture>
+</p>
 
-# Hey there, I'm Rahul P 👋
+<h1 align="center">
+  Hey there, I'm Rahul P 👋
+</h1>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;REST+APIs+%7C+Databases+%7C+Cloud;Always+Learning+%26+Building"
-  alt="Typing SVG"
-/>
+<p align="center">
+  <a href="https://github.com/AntonyRahulDev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;JavaScript+%7C+React.js+%7C+Node.js;Building+clean+and+scalable+web+applications;Always+learning%2C+building+and+shipping+%F0%9F%9A%80" alt="Typing SVG">
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/AntonyRahulDev">
+    <img src="https://img.shields.io/github/followers/AntonyRahulDev?label=Followers&style=for-the-badge&color=00FF66&labelColor=000000" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/AntonyRahulDev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AntonyRahulDev?affiliations=OWNER&style=for-the-badge&color=00FF66&labelColor=000000" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AntonyRahulDev&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views">
+</p>
 
-<a href="https://github.com/AntonyRahul01">
-  <img src="https://img.shields.io/github/followers/AntonyRahul01?label=Followers&style=for-the-badge&color=EF93C4&labelColor=111111" alt="GitHub Followers">
-</a>
-
-<a href="https://github.com/AntonyRahul01?tab=repositories">
-  <img src="https://img.shields.io/github/stars/AntonyRahul01?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=111111" alt="GitHub Stars">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AntonyRahul01&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
-
-<br><br>
-
-<a href="https://linkedin.com/in/rahul-p-901005216">
-  <img src="https://img.shields.io/badge/LinkedIn-Rahul%20P-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:antonyrahul2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-antonyrahul2001%40gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-p-901005216/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20P-00FF66?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn">
+  </a>
+  <a href="mailto:antonyrahul2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00FF66?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🌸 About Me
+## 🟢 About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-I'm **Rahul P**, a **Full-Stack Developer** focused on building modern, responsive, and production-ready web applications.
+I'm **Rahul P**, a **Full-Stack Developer** focused on building practical, scalable, and user-friendly web applications.
 
-I work across the frontend and backend, with experience in **React.js, Node.js, Express.js, MySQL, MongoDB, REST APIs, AWS, and Linux-based deployments**.
-
-I enjoy turning ideas into practical products — from designing clean interfaces and building APIs to integrating databases, payment gateways, third-party services, and deploying applications to production.
-
-### What I Do
-
-- 💻 Build full-stack web applications
-- ⚛️ Develop modern React.js interfaces
-- 🟢 Build Node.js & Express.js backends
-- 🔌 Design and integrate REST APIs
-- 🗄️ Work with MySQL & MongoDB
-- ☁️ Deploy applications using AWS
-- 🐧 Manage Linux-based production environments
-- 💳 Integrate payment services such as Stripe & Razorpay
-- 🚀 Improve, maintain, and scale existing applications
-
-<br>
-
-> **Build. Learn. Improve. Repeat.**
+- 💻 Working across **frontend and backend development**
+- ⚛️ Building interfaces with **React.js**
+- 🟢 Developing backend applications with **Node.js & Express.js**
+- 🗄️ Working with **MySQL & MongoDB**
+- ☁️ Deploying and managing applications with **AWS & Linux**
+- 🔧 Comfortable with **REST APIs, Git, Nginx and PM2**
+- 🚀 Interested in clean architecture, performance and real-world problem solving
+- 🌱 Continuously learning and improving my development workflow
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center">
 
-<img
-  src="https://github.com/AntonyRahul01/AntonyRahul01/raw/main/assets/profile.png"
-  width="250"
-  alt="Rahul P"
-/>
+<img src="https://github.com/AntonyRahulDev.png?size=400" width="220" alt="Rahul P">
+
+<br><br>
+
+<strong>Full-Stack Developer</strong>
+
+<br>
+
+JavaScript • React • Node.js
 
 </td>
 </tr>
@@ -83,164 +80,181 @@ I enjoy turning ideas into practical products — from designing clean interface
 
 ---
 
-## 🛠️ Tech Stack
+## 🟢 Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Languages">
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages">
+### 🎨 Frontend
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend">
+</p>
 
-### Frontend
+### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" alt="Frontend">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Backend and databases">
+</p>
 
-<br><br>
+### ☁️ Cloud & DevOps
 
-### Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,nginx,git,github&theme=dark" alt="Cloud and DevOps">
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend and Database">
+### 🔥 Other Technologies
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase">
+</p>
 
-### Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,postman" alt="Cloud DevOps Tools">
-
-<br><br>
-
-### Services & Integrations
-
-<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-<img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Stripe-00FF66?style=for-the-badge&logo=stripe&logoColor=000000&labelColor=000000" alt="Stripe">
+  <img src="https://img.shields.io/badge/Razorpay-00FF66?style=for-the-badge&logo=razorpay&logoColor=000000&labelColor=000000" alt="Razorpay">
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🟢 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/AntonyRahulDev/YogasFood">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahulDev&repo=YogasFood&theme=dark&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=000000&border_color=00FF66" alt="YogasFood">
+  </a>
+  <a href="https://github.com/AntonyRahulDev/Sketchit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahulDev&repo=Sketchit&theme=dark&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=000000&border_color=00FF66" alt="Sketchit">
+  </a>
+</p>
 
-<a href="https://github.com/AntonyRahul01/YogasFood">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahul01&repo=YogasFood&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=F8BBD0"
-    alt="YogasFood"
-  >
-</a>
+### 🍴 YogasFood
 
-<a href="https://github.com/AntonyRahul01/Sketchit">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahul01&repo=Sketchit&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=F8BBD0"
-    alt="Sketchit"
-  >
-</a>
+A food-focused web application built with a full-stack approach.
 
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ YogasFood
-
-Full-stack food ordering platform built with **React.js, Node.js, Express.js, and MySQL**, including online payments and production deployment.
-
-**Stack:** React.js · Node.js · Express.js · MySQL · Stripe · AWS
-
-</td>
-
-<td width="50%" valign="top">
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
 ### 🎨 Sketchit
 
-Modern company profile website focused on responsive UI, interactive animations, and production deployment.
+A creative web project focused on interactive user experiences.
 
-**Stack:** React.js · Tailwind CSS · GSAP · AWS
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AntonyRahulDev?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="View all repositories">
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🟢 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AntonyRahulDev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=000000"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRahulDev&layout=compact&hide_border=true&title_color=00FF66&text_color=FFFFFF&bg_color=000000"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AntonyRahul01&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&rank_icon=github"
-  height="180"
-  alt="GitHub Stats"
-/>
+---
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRahul01&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888"
-  height="180"
-  alt="Top Languages"
-/>
+## 🔥 GitHub Streak
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=AntonyRahul01&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=888888"
-  alt="GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AntonyRahulDev&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=FFFFFF"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyRahul01&bg_color=00000000&color=888888&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyRahulDev&bg_color=000000&color=FFFFFF&line=00FF66&point=00FF66&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AntonyRahulDev/AntonyRahulDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AntonyRahulDev/AntonyRahulDev/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/AntonyRahulDev/AntonyRahulDev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+  </picture>
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AntonyRahul01/AntonyRahul01/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AntonyRahul01/AntonyRahul01/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    src="https://raw.githubusercontent.com/AntonyRahul01/AntonyRahul01/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  >
-</picture>
+---
 
-</div>
+## 🟢 Connect With Me
 
-<!--
-GitHub Action:
-.github/workflows/snake.yml
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/rahul-p-901005216/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20P-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:antonyrahul2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-antonyrahul2001%40gmail.com-00FF66?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email">
+  </a>
+
+  <!-- Replace YOUR_USERNAME with your actual X username -->
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/X-YOUR_USERNAME-00FF66?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000" alt="X">
+  </a>
+
+  <!-- Replace YOUR_USERNAME with your actual Instagram username -->
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-YOUR_USERNAME-00FF66?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=000000" alt="Instagram">
+  </a>
+
+  <!-- Replace YOUR_USERNAME with your actual TikTok username -->
+  <a href="https://www.tiktok.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-YOUR_USERNAME-00FF66?style=for-the-badge&logo=tiktok&logoColor=FFFFFF&labelColor=000000" alt="TikTok">
+  </a>
+
+  <!-- Replace YOUR_USERNAME with your actual YouTube username -->
+  <a href="https://youtube.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/YouTube-YOUR_USERNAME-00FF66?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=000000" alt="YouTube">
+  </a>
+
+</p>
+
+---
+
+## 🖤 Thanks for Visiting
+
+<p align="center">
+  <i>Thanks for stopping by! Feel free to explore my repositories and connect with me.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AntonyRahulDev">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FF66,100:000000" width="100%" alt="Green waving footer">
+  </a>
+</p>
+
+<!-- =========================
+     GitHub Action:
+     .github/workflows/snake.yml
 
 name: Generate Contribution Snake
 
@@ -249,70 +263,33 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=EF93C4
-            dist/github-contribution-grid-snake-dark.svg?color_snake=FF69B4
+            dist/github-contribution-grid-snake.svg?color_snake=00FF66&color_dots=000000,FFFFFF,00FF66
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00FF66&color_dots=000000,FFFFFF,00FF66
 
-      - name: Push Snake
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rahul-p-901005216">
-  <img src="https://img.shields.io/badge/LinkedIn-Rahul%20P-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://x.com/[YOUR_X_USERNAME]">
-  <img src="https://img.shields.io/badge/X-[YOUR_X_USERNAME]-111111?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-
-<a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]">
-  <img src="https://img.shields.io/badge/Instagram-[YOUR_INSTAGRAM_USERNAME]-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-  <img src="https://img.shields.io/badge/TikTok-[YOUR_TIKTOK_USERNAME]-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
-
-<a href="https://youtube.com/@[YOUR_YOUTUBE_USERNAME]">
-  <img src="https://img.shields.io/badge/YouTube-[YOUR_YOUTUBE_USERNAME]-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
-<a href="mailto:antonyrahul2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-antonyrahul2001%40gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💗 Thanks for stopping by!
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&animation=twinkling&color=gradient"
-  alt="Footer"
-/>
-
-</div>
+=========================
+     COLOR PALETTE
+     
+     Primary Green: #00FF66
+     White:         #FFFFFF
+     Black:         #000000
+========================= -->
