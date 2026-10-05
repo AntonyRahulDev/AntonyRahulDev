@@ -2,7 +2,7 @@
 
 <!-- HERO BANNER -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AntonyRahulDev">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there,%20I'm%20Rahul%20P&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20MERN&descAlignY=58&descSize=20&color=000000" width="100%" />
 </a>
 
@@ -10,14 +10,14 @@
 
 <!-- TYPING ANIMATION -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AntonyRahulDev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AntonyRahulDev&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
@@ -165,7 +165,7 @@ Working with payment and real-time services.
 <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AntonyRahulDev">
 <img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
 </a>
 
