@@ -122,11 +122,28 @@ JavaScript • React • Node.js
 ## 🟢 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AntonyRahulDev/YogasFood">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahulDev&repo=YogasFood&theme=dark&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=000000&border_color=00FF66" alt="YogasFood">
+  <a href="https://yogasfood.ch/">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahulDev&repo=YogasFood&theme=dark&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=000000&border_color=00FF66"
+      alt="YogasFood"
+    />
   </a>
-  <a href="https://github.com/AntonyRahulDev/Sketchit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahulDev&repo=Sketchit&theme=dark&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=000000&border_color=00FF66" alt="Sketchit">
+
+  <a href="https://sketchit.ch/">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AntonyRahulDev&repo=Sketchit&theme=dark&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=000000&border_color=00FF66"
+      alt="Sketchit"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yogasfood.ch/">
+    <img src="https://img.shields.io/badge/🍴%20Visit%20YogasFood-00FF66?style=for-the-badge&labelColor=000000&color=00FF66" alt="Visit YogasFood">
+  </a>
+
+  <a href="https://sketchit.ch/">
+    <img src="https://img.shields.io/badge/🎨%20Visit%20Sketchit-00FF66?style=for-the-badge&labelColor=000000&color=00FF66" alt="Visit Sketchit">
   </a>
 </p>
 
