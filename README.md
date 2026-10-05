@@ -1,84 +1,42 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there,%20I'm%20Rahul%20P&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20MERN&descAlignY=58&descSize=20&color=000000" width="100%" />
-</a>
+<!--                          HERO / HEADER                                -->
 
-<br>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- TYPING ANIMATION -->
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile Views" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">About Me</span>
-
-</div>
-
-<p align="center">
-I'm <strong>Rahul P</strong>, a Software Developer with professional and freelance experience
-building modern, responsive, and scalable web applications.
-</p>
-
-<p align="center">
-My primary focus is <strong>Full-Stack & MERN development</strong>, with hands-on experience
-in React.js, Next.js, Node.js, Express.js, MySQL, MongoDB, REST APIs,
-payment integrations, and AWS deployment.
-</p>
-
-<div align="center">
-
-💻 Software Developer   •  
-⚛️ React / Next.js   •  
-🟢 Node.js / Express.js   •  
-☁️ AWS
-
-<br><br>
-
-🎓 MCA — 2024   •  
-🚀 Freelance Developer   •  
-📍 Tamil Nadu, India
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">Tech Stack</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there%2C%20I'm%20Rahul%20P&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20MERN&descAlignY=58&descSize=19&animation=fadeIn&color=000000" width="100%"/>
 
 <br>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=850&height=45&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+Node.js;Full-Stack+%26+MERN+Development;REST+APIs+%7C+Databases+%7C+Cloud;Turning+Ideas+Into+Production-Ready+Software" />
 
 <br><br>
 
-### Backend & Databases
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM%20VISITS&color=00FF66&style=for-the-badge" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</div>
 
-<br><br>
+<br>
 
-### Cloud, DevOps & Tools
+---
 
-<img src="https://skillicons.dev/icons?i=aws,linux,nginx,git,github,bitbucket,postman,firebase" />
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > INITIALIZING RAHUL_P.DEV                                    ║
+║                                                                  ║
+║   STATUS       : ONLINE                                          ║
+║   ROLE         : SOFTWARE DEVELOPER                              ║
+║   SPECIALITY   : FULL-STACK / MERN                               ║
+║   ENVIRONMENT  : WEB • CLOUD • API                               ║
+║   MODE         : BUILDING                                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -86,51 +44,40 @@ payment integrations, and AWS deployment.
 
 <div align="center">
 
-## <span style="color:#00FF66;">What I Build</span>
+# <span style="color:#00FF66;">`01` // SYSTEM PROFILE</span>
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### ⚡ Full-Stack Applications
+### `> about_me`
 
-Building complete web applications with modern frontend and backend technologies.
+I'm **Rahul P**, a Software Developer focused on building modern, responsive, and scalable web applications.
 
-`React.js` `Next.js` `Node.js` `Express.js`
+My development journey is centered around the **JavaScript ecosystem**, with hands-on experience across frontend, backend, databases, APIs, cloud deployment, and third-party integrations.
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🔌 REST APIs
-
-Designing and integrating RESTful APIs with database-driven backend systems.
-
-`Node.js` `Express.js` `MySQL` `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Deployment
-
-Deploying and maintaining applications on production Linux servers.
-
-`AWS EC2` `AWS S3` `PM2` `Nginx`
+I enjoy turning ideas into reliable digital products with clean interfaces and practical architecture.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 💳 Integrations
+### `> system_info`
 
-Working with payment and real-time services.
-
-`Stripe` `Razorpay` `Firebase`
+```text
+┌─────────────────────────────┐
+│ USER        : RAHUL P       │
+│ ROLE        : DEVELOPER     │
+│ LOCATION    : INDIA         │
+│ EDUCATION   : MCA           │
+│ GRADUATED   : 2024         │
+│ EXPERIENCE  : 1+ YEAR       │
+│ FOCUS       : FULL-STACK    │
+│ STATUS      : BUILDING      │
+└─────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -140,108 +87,37 @@ Working with payment and real-time services.
 
 <div align="center">
 
-## <span style="color:#00FF66;">Featured Projects</span>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ YogasFood
-
-Freelance food-ordering platform developed for a restaurant in Switzerland.
-
-**Stack**
-
-`React.js` `Node.js` `Express.js` `MySQL` `Stripe`
-
-**Features**
-
-* Online food ordering
-* Stripe payments
-* Cash on Delivery
-* REST API integration
-* Responsive UI
-* AWS deployment
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 Sketchit
-
-Freelance profile website built to showcase a client's work and services.
-
-**Stack**
-
-`React.js` `Tailwind CSS` `GSAP` `AWS`
-
-**Features**
-
-* Modern responsive UI
-* GSAP animations
-* Mobile-friendly design
-* Custom domain
-* AWS deployment
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">Professional Experience</span>
-
-### Junior Node.js Developer
-
-**Dot Com Infoway · Sep 2024 – Nov 2025**
-
-</div>
-
-Worked on full-stack web applications involving:
-
-* React.js and Next.js frontend development
-* Node.js and Express.js backend services
-* RESTful API development and integration
-* MySQL and MongoDB
-* Stripe and Firebase integrations
-* AWS EC2 and S3
-* Linux server deployment with PM2 and Nginx
-* Responsive and reusable UI development
-* Debugging and performance optimization
-* Agile development and Git-based collaboration
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">Currently Learning</span>
+# <span style="color:#00FF66;">`02` // TECH MATRIX</span>
 
 <br>
 
-`TypeScript`   `Advanced Next.js`   `Backend Architecture` <br>
-`System Design`   `Cloud Development`   `AI-Assisted Development`
+### `FRONTEND`
 
-</div>
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">GitHub Stats</span>
-
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF66&sideNums=FFFFFF&dates=FFFFFF" />
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+### `DATABASE`
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+### `CLOUD / DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=aws,linux,nginx" />
+
+<br><br>
+
+### `TOOLS / SERVICES`
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,firebase" />
 
 </div>
 
@@ -249,28 +125,244 @@ Worked on full-stack web applications involving:
 
 <div align="center">
 
-## <span style="color:#00FF66;">Connect With Me</span>
+# <span style="color:#00FF66;">`03` // DEVELOPMENT STACK</span>
+
+</div>
+
+```text
+                    ┌─────────────────────┐
+                    │     USER / WEB      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+              ┌────────────────────────────────┐
+              │          FRONTEND              │
+              │                                │
+              │ React.js • Next.js • Redux     │
+              │ HTML5 • CSS3 • Tailwind CSS    │
+              └───────────────┬────────────────┘
+                              │
+                         REST / HTTP
+                              │
+                              ▼
+              ┌────────────────────────────────┐
+              │           BACKEND              │
+              │                                │
+              │ Node.js • Express.js           │
+              │ REST APIs • Business Logic     │
+              └───────────────┬────────────────┘
+                              │
+                 ┌────────────┴────────────┐
+                 ▼                         ▼
+        ┌──────────────────┐      ┌──────────────────┐
+        │      MySQL       │      │     MongoDB      │
+        │   Relational DB  │      │   NoSQL Database │
+        └──────────────────┘      └──────────────────┘
+                              │
+                              ▼
+              ┌────────────────────────────────┐
+              │          CLOUD / SERVER        │
+              │                                │
+              │ AWS EC2 • S3 • Linux           │
+              │ PM2 • Nginx                    │
+              └────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+# <span style="color:#00FF66;">`04` // CORE CAPABILITIES</span>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### ⚛️
+
+**FRONTEND**
+
+React.js
+Next.js
+Redux
+Tailwind CSS
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**BACKEND**
+
+Node.js
+Express.js
+REST APIs
+Server Logic
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**DATA**
+
+MySQL
+MongoDB
+Database Design
+Query Handling
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**CLOUD**
+
+AWS EC2
+AWS S3
+PM2
+Nginx
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# <span style="color:#00FF66;">`05` // INTEGRATIONS</span>
+
+<br>
+
+<img src="https://img.shields.io/badge/STRIPE-000000?style=for-the-badge&logo=stripe&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/RAZORPAY-000000?style=for-the-badge&logo=razorpay&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logoColor=00FF66" />
+
+</div>
+
+---
+
+<div align="center">
+
+# <span style="color:#00FF66;">`06` // DEVELOPMENT PHILOSOPHY</span>
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   01  UNDERSTAND                                                 │
+│       └── Understand the requirement before writing code.        │
+│                                                                  │
+│   02  DESIGN                                                     │
+│       └── Think about structure, usability and scalability.      │
+│                                                                  │
+│   03  BUILD                                                      │
+│       └── Write clean, reusable and maintainable code.           │
+│                                                                  │
+│   04  DEBUG                                                      │
+│       └── Find the root cause, not just the visible symptom.     │
+│                                                                  │
+│   05  IMPROVE                                                     │
+│       └── Continuously learn, refactor and optimize.             │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+# <span style="color:#00FF66;">`07` // CURRENTLY EXPLORING</span>
+
+<br>
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Backend_Architecture-000000?style=for-the-badge&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/AI_Assisted_Development-000000?style=for-the-badge&logoColor=00FF66" />
+
+</div>
+
+---
+
+<div align="center">
+
+# <span style="color:#00FF66;">`08` // DEVELOPMENT MODE</span>
+
+<br>
+
+```text
+               ┌──────────────────────────┐
+               │       BUILD MODE         │
+               ├──────────────────────────┤
+               │                          │
+               │  [██████████████████]    │
+               │                          │
+               │  CODE       ██████████   │
+               │  LEARN      █████████     │
+               │  DEBUG      ██████████    │
+               │  IMPROVE    ██████████    │
+               │                          │
+               └──────────────────────────┘
+```
+
+<br>
+
+`CREATE`  →  `BUILD`  →  `DEBUG`  →  `DEPLOY`  →  `IMPROVE`
+
+</div>
+
+---
+
+<div align="center">
+
+# <span style="color:#00FF66;">`09` // CONNECT</span>
 
 <br>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
 
 <a href="mailto:antonyrahul2001@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-00FF66?style=for-the-badge&logo=github&logoColor=000000" />
 </a>
 
 <br><br>
 
-<strong>Open to opportunities, collaboration & interesting projects.</strong>
+<span style="color:#00FF66;">●</span> Open to opportunities   <span style="color:#00FF66;">●</span> Open to collaboration   <span style="color:#00FF66;">●</span> Always learning
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+> connection.established()
+> status: ready_to_build
+```
+
+<br>
+
+<strong>Let's build something meaningful.</strong>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=00FF66" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=00FF66" width="100%"/>
 
 </div>
