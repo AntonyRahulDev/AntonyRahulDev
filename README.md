@@ -16,10 +16,6 @@
 
 <br><br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AntonyRahulDev&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile Views" />
-</p>
-
 </div>
 
 ---
@@ -48,9 +44,9 @@ payment integrations, and AWS deployment.
 🟢 Node.js / Express.js   •  
 ☁️ AWS
 
-<br><br>
+<br>
 
-🎓 MCA — 2024   •  
+🎓 MCA - 2024   •  
 🚀 Freelance Developer   •  
 📍 Tamil Nadu, India
 
@@ -144,7 +140,8 @@ Working with payment and real-time services.
 
 <br>
 
-`TypeScript`   `Advanced Next.js`   `Backend Architecture` <br>
+`TypeScript`   `Advanced Next.js`   `Backend Architecture`
+<br>
 `System Design`   `Cloud Development`   `AI-Assisted Development`
 
 </div>
@@ -161,7 +158,7 @@ Working with payment and real-time services.
 <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:antonyrahul2001@gmail.com">
+<a href="mailto:[antonyrahul2001@gmail.com](mailto:antonyrahul2001@gmail.com)">
 <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
 </a>
 
