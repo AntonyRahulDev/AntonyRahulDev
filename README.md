@@ -1,26 +1,24 @@
 <div align="center">
 
-# <span style="color:#00FF66;">RAHUL P</span>
+<!-- HERO BANNER -->
 
-### `Software Developer` · `Full-Stack Developer` · `MERN Stack`
-
-<p>
-  <b>Building modern web applications with clean UI, scalable APIs & cloud deployment.</b>
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there,%20I'm%20Rahul%20P&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20MERN&descAlignY=58&descSize=20&color=000000" width="100%" />
+</a>
 
 <br>
 
-<a href="mailto:antonyrahul2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+<!-- TYPING ANIMATION -->
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -28,102 +26,55 @@
 
 <div align="center">
 
-## <span style="color:#00FF66;">$ whoami</span>
-
-</div>
-
-```javascript
-const rahul = {
-    name: "Rahul P",
-    role: "Software Developer",
-    location: "Tamil Nadu, India",
-
-    focus: [
-        "Full-Stack Development",
-        "MERN Stack",
-        "Web Application Development"
-    ],
-
-    frontend: [
-        "JavaScript",
-        "React.js",
-        "Next.js",
-        "Redux",
-        "HTML5",
-        "CSS3",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "REST APIs"
-    ],
-
-    databases: [
-        "MySQL",
-        "MongoDB"
-    ],
-
-    cloud: [
-        "AWS EC2",
-        "AWS S3",
-        "Linux",
-        "PM2",
-        "Nginx"
-    ],
-
-    integrations: [
-        "Stripe",
-        "Razorpay",
-        "Firebase"
-    ],
-
-    currentlyLearning: [
-        "TypeScript",
-        "Advanced Next.js",
-        "Backend Architecture",
-        "System Design"
-    ]
-};
-```
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">$ cat about-me.txt</span>
+## <span style="color:#00FF66;">About Me</span>
 
 </div>
 
 <p align="center">
-Software Developer with professional and freelance experience building
-<strong>modern, responsive and scalable web applications</strong>.
+I'm <strong>Rahul P</strong>, a Software Developer with professional and freelance experience
+building modern, responsive, and scalable web applications.
+</p>
+
+<p align="center">
+My primary focus is <strong>Full-Stack & MERN development</strong>, with hands-on experience
+in React.js, Next.js, Node.js, Express.js, MySQL, MongoDB, REST APIs,
+payment integrations, and AWS deployment.
+</p>
+
+<div align="center">
+
+💻 Software Developer   •  
+⚛️ React / Next.js   •  
+🟢 Node.js / Express.js   •  
+☁️ AWS
+
 <br><br>
-I specialize in <strong>React.js, Next.js, Node.js, Express.js, MySQL and MongoDB</strong>,
-with hands-on experience in REST APIs, payment integrations, AWS deployment,
-Linux servers and production web applications.
-</p>
 
-<p align="center">
-🎓 MCA · 2024 &nbsp;&nbsp; | &nbsp;&nbsp;
-💻 1+ Year Professional Experience &nbsp;&nbsp; | &nbsp;&nbsp;
-🚀 Freelance Projects
-</p>
+🎓 MCA — 2024   •  
+🚀 Freelance Developer   •  
+📍 Tamil Nadu, India
+
+</div>
 
 ---
 
 <div align="center">
 
-## <span style="color:#00FF66;">$ tech-stack --list</span>
+## <span style="color:#00FF66;">Tech Stack</span>
+
+<br>
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind" />
 
-### Backend & Database
+<br><br>
+
+### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+
+<br><br>
 
 ### Cloud, DevOps & Tools
 
@@ -135,7 +86,61 @@ Linux servers and production web applications.
 
 <div align="center">
 
-## <span style="color:#00FF66;">$ git log --projects</span>
+## <span style="color:#00FF66;">What I Build</span>
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Full-Stack Applications
+
+Building complete web applications with modern frontend and backend technologies.
+
+`React.js` `Next.js` `Node.js` `Express.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 REST APIs
+
+Designing and integrating RESTful APIs with database-driven backend systems.
+
+`Node.js` `Express.js` `MySQL` `MongoDB`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Deployment
+
+Deploying and maintaining applications on production Linux servers.
+
+`AWS EC2` `AWS S3` `PM2` `Nginx`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 Integrations
+
+Working with payment and real-time services.
+
+`Stripe` `Razorpay` `Firebase`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">Featured Projects</span>
 
 </div>
 
@@ -145,18 +150,16 @@ Linux servers and production web applications.
 
 ### 🍽️ YogasFood
 
-**Freelance · Switzerland**
+Freelance food-ordering platform developed for a restaurant in Switzerland.
 
-A restaurant and online food-ordering platform.
-
-**Built with**
+**Stack**
 
 `React.js` `Node.js` `Express.js` `MySQL` `Stripe`
 
-**Key Features**
+**Features**
 
 * Online food ordering
-* Stripe payment integration
+* Stripe payments
 * Cash on Delivery
 * REST API integration
 * Responsive UI
@@ -168,114 +171,19 @@ A restaurant and online food-ordering platform.
 
 ### 🎨 Sketchit
 
-**Freelance Project**
+Freelance profile website built to showcase a client's work and services.
 
-A modern profile website designed to showcase a client's work and services.
-
-**Built with**
+**Stack**
 
 `React.js` `Tailwind CSS` `GSAP` `AWS`
 
-**Key Features**
+**Features**
 
-* Modern responsive interface
+* Modern responsive UI
 * GSAP animations
 * Mobile-friendly design
 * Custom domain
 * AWS deployment
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 VISL
-
-**Professional Project**
-
-Frontend revamp of a real-time hardware monitoring application.
-
-**Built with**
-
-`React.js` `Redux` `REST APIs` `Tailwind CSS`
-
-**Highlights**
-
-* Frontend modernization
-* API integration
-* Reusable UI components
-* Real-time monitoring interface
-* Graph-based data visualization
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌍 WorldVision India
-
-**Professional Project**
-
-Frontend modernization and API integration for a large-scale platform.
-
-**Built with**
-
-`React.js` `REST APIs`
-
-**Highlights**
-
-* React frontend revamp
-* API integration
-* Blog and content pages
-* Child sponsorship listings
-* Donation-related features
-* Volunteer updates
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ BitTwoByte
-
-**Professional Project**
-
-Technology consulting platform covering data, cloud and AI services.
-
-**Built with**
-
-`React.js` `Node.js` `Express.js` `MySQL`
-
-**Highlights**
-
-* Full-stack development
-* REST API development
-* Database integration
-* Responsive interfaces
-* Blogs and case studies
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎮 Encrypted Cliches
-
-**Professional Project**
-
-Backend development for an existing gaming web application.
-
-**Built with**
-
-`Node.js` `Express.js` `Stripe` `Firebase`
-
-**Highlights**
-
-* Recurring subscriptions
-* Stripe billing integration
-* Offer delivery
-* Firebase real-time data
-* Backend API development
 
 </td>
 </tr>
@@ -285,22 +193,23 @@ Backend development for an existing gaming web application.
 
 <div align="center">
 
-## <span style="color:#00FF66;">$ experience --summary</span>
+## <span style="color:#00FF66;">Professional Experience</span>
+
+### Junior Node.js Developer
+
+**Dot Com Infoway · Sep 2024 – Nov 2025**
 
 </div>
 
-### 💻 Junior Node.js Developer · Dot Com Infoway
+Worked on full-stack web applications involving:
 
-`Sep 2024 → Nov 2025`
-
-Worked on full-stack web applications and backend services using:
-
-* **React.js / Next.js** for modern frontend development
-* **Node.js / Express.js** for backend services and REST APIs
-* **MySQL / MongoDB** for database development
-* **Stripe / Firebase** integrations
-* **AWS EC2 / S3** cloud deployment
-* **Linux / PM2 / Nginx** production deployment
+* React.js and Next.js frontend development
+* Node.js and Express.js backend services
+* RESTful API development and integration
+* MySQL and MongoDB
+* Stripe and Firebase integrations
+* AWS EC2 and S3
+* Linux server deployment with PM2 and Nginx
 * Responsive and reusable UI development
 * Debugging and performance optimization
 * Agile development and Git-based collaboration
@@ -309,123 +218,26 @@ Worked on full-stack web applications and backend services using:
 
 <div align="center">
 
-## <span style="color:#00FF66;">$ architecture --stack</span>
-
-```text
-                    ┌───────────────────────┐
-                    │       FRONTEND        │
-                    │ React.js / Next.js    │
-                    │ Redux / Tailwind CSS  │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │      REST APIs        │
-                    │ Node.js / Express.js  │
-                    └───────────┬───────────┘
-                                │
-                       ┌────────┴────────┐
-                       ▼                 ▼
-              ┌────────────────┐ ┌────────────────┐
-              │     MySQL      │ │    MongoDB     │
-              └────────────────┘ └────────────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │         AWS           │
-                    │ EC2 / S3 / Linux      │
-                    │ PM2 / Nginx           │
-                    └───────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">$ currently --working-on</span>
-
-</div>
-
-```text
-[████████████████████████████████] 100%
-
-✓ Building full-stack web applications
-✓ Improving Next.js development
-✓ Strengthening TypeScript
-✓ Exploring backend architecture
-✓ Learning system design fundamentals
-✓ Exploring AI-assisted development
-```
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">$ developer --mindset</span>
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### ⚡
-
-**Build**
-
-Turning ideas into
-working products.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩
-
-**Solve**
-
-Breaking complex
-problems into solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Improve**
-
-Continuously improving
-code & architecture.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤝
-
-**Collaborate**
-
-Learning and building
-with great teams.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## <span style="color:#00FF66;">$ github --stats</span>
+## <span style="color:#00FF66;">Currently Learning</span>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66" />
+`TypeScript`   `Advanced Next.js`   `Backend Architecture` <br>
+`System Design`   `Cloud Development`   `AI-Assisted Development`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF" />
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">GitHub Stats</span>
+
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF" />
 
 <br><br>
 
@@ -437,28 +249,28 @@ with great teams.
 
 <div align="center">
 
-## <span style="color:#00FF66;">$ connect</span>
+## <span style="color:#00FF66;">Connect With Me</span>
 
 <br>
 
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+</a>
+
 <a href="mailto:antonyrahul2001@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF66?style=for-the-badge&logo=gmail&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
 </a>
 
 <br><br>
 
-### <span style="color:#00FF66;">Open to opportunities, collaboration & interesting projects.</span>
+<strong>Open to opportunities, collaboration & interesting projects.</strong>
 
-<br>
+<br><br>
 
-`Let's build something great. 🚀`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=00FF66" width="100%" />
 
 </div>
