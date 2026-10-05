@@ -1,79 +1,281 @@
-<!-- ========================================================= -->
-<!--                    GITHUB PROFILE README                  -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <!-- Responsive Light/Dark Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:FFFFFF&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
-      width="100%"
-      alt="GitHub Banner"
-    />
-  </picture>
+# <span style="color:#00FF66;">RAHUL P</span>
 
-  <br>
+### `Software Developer` · `Full-Stack Developer` · `MERN Stack`
 
-  # Hey there, I'm [YOUR_NAME] 👋
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=[YOUR_TITLE];[YOUR_SPECIALIZATION];Building+modern+web+experiences;Turning+ideas+into+reality;Always+learning+%26+growing"
-    alt="Typing SVG"
-  />
-
-  <br>
-
-  <!-- GitHub Badges -->
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=00FF66&labelColor=000000" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=00FF66&labelColor=000000" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=00FF66&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
-
-</div>
+<p>
+  <b>Building modern web applications with clean UI, scalable APIs & cloud deployment.</b>
+</p>
 
 <br>
 
----
-
-## <div align="center">👨‍💻 About Me</div>
-
-<table align="center">
-<tr>
-<td width="65%" valign="top">
-
-### Hi, I'm [YOUR_NAME]!
-
-I'm a **[YOUR_TITLE]** passionate about building modern, scalable, and user-friendly web applications.
-
-I enjoy transforming ideas into real-world digital products while continuously improving my development and problem-solving skills.
-
-- 💻 Working with **[YOUR_PRIMARY_TECHNOLOGIES]**
-- ⚛️ Passionate about **[YOUR_SPECIALIZATION]**
-- 🌱 Currently learning **[CURRENTLY_LEARNING]**
-- 🚀 Interested in **[YOUR_AREA_OF_INTEREST]**
-- 🎯 Goal: **[YOUR_CAREER_GOAL]**
-- 📍 Based in **[YOUR_LOCATION]**
-- 💼 Open to **[JOB/FREELANCE/OPPORTUNITY_STATUS]**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
-
-<br>
-
-> **"Code. Learn. Build. Improve. Repeat."** 🟢
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="[YOUR_PROFILE_IMAGE_URL]" width="280" alt="[YOUR_NAME]"/>
+<a href="mailto:antonyrahul2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+</a>
 
 <br><br>
 
-<img
-  src="https://img.shields.io/badge/SOFTWARE_DEVELOPER-00FF66?style=for-the-badge&logo=code&logoColor=000000"
-  alt="Software Developer"
-/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ whoami</span>
+
+</div>
+
+```javascript
+const rahul = {
+    name: "Rahul P",
+    role: "Software Developer",
+    location: "Tamil Nadu, India",
+
+    focus: [
+        "Full-Stack Development",
+        "MERN Stack",
+        "Web Application Development"
+    ],
+
+    frontend: [
+        "JavaScript",
+        "React.js",
+        "Next.js",
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs"
+    ],
+
+    databases: [
+        "MySQL",
+        "MongoDB"
+    ],
+
+    cloud: [
+        "AWS EC2",
+        "AWS S3",
+        "Linux",
+        "PM2",
+        "Nginx"
+    ],
+
+    integrations: [
+        "Stripe",
+        "Razorpay",
+        "Firebase"
+    ],
+
+    currentlyLearning: [
+        "TypeScript",
+        "Advanced Next.js",
+        "Backend Architecture",
+        "System Design"
+    ]
+};
+```
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ cat about-me.txt</span>
+
+</div>
+
+<p align="center">
+Software Developer with professional and freelance experience building
+<strong>modern, responsive and scalable web applications</strong>.
+<br><br>
+I specialize in <strong>React.js, Next.js, Node.js, Express.js, MySQL and MongoDB</strong>,
+with hands-on experience in REST APIs, payment integrations, AWS deployment,
+Linux servers and production web applications.
+</p>
+
+<p align="center">
+🎓 MCA · 2024 &nbsp;&nbsp; | &nbsp;&nbsp;
+💻 1+ Year Professional Experience &nbsp;&nbsp; | &nbsp;&nbsp;
+🚀 Freelance Projects
+</p>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ tech-stack --list</span>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+
+### Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,linux,nginx,git,github,bitbucket,postman,firebase" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ git log --projects</span>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ YogasFood
+
+**Freelance · Switzerland**
+
+A restaurant and online food-ordering platform.
+
+**Built with**
+
+`React.js` `Node.js` `Express.js` `MySQL` `Stripe`
+
+**Key Features**
+
+* Online food ordering
+* Stripe payment integration
+* Cash on Delivery
+* REST API integration
+* Responsive UI
+* AWS deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Sketchit
+
+**Freelance Project**
+
+A modern profile website designed to showcase a client's work and services.
+
+**Built with**
+
+`React.js` `Tailwind CSS` `GSAP` `AWS`
+
+**Key Features**
+
+* Modern responsive interface
+* GSAP animations
+* Mobile-friendly design
+* Custom domain
+* AWS deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 VISL
+
+**Professional Project**
+
+Frontend revamp of a real-time hardware monitoring application.
+
+**Built with**
+
+`React.js` `Redux` `REST APIs` `Tailwind CSS`
+
+**Highlights**
+
+* Frontend modernization
+* API integration
+* Reusable UI components
+* Real-time monitoring interface
+* Graph-based data visualization
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 WorldVision India
+
+**Professional Project**
+
+Frontend modernization and API integration for a large-scale platform.
+
+**Built with**
+
+`React.js` `REST APIs`
+
+**Highlights**
+
+* React frontend revamp
+* API integration
+* Blog and content pages
+* Child sponsorship listings
+* Donation-related features
+* Volunteer updates
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ BitTwoByte
+
+**Professional Project**
+
+Technology consulting platform covering data, cloud and AI services.
+
+**Built with**
+
+`React.js` `Node.js` `Express.js` `MySQL`
+
+**Highlights**
+
+* Full-stack development
+* REST API development
+* Database integration
+* Responsive interfaces
+* Blogs and case studies
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Encrypted Cliches
+
+**Professional Project**
+
+Backend development for an existing gaming web application.
+
+**Built with**
+
+`Node.js` `Express.js` `Stripe` `Firebase`
+
+**Highlights**
+
+* Recurring subscriptions
+* Stripe billing integration
+* Offer delivery
+* Firebase real-time data
+* Backend API development
 
 </td>
 </tr>
@@ -81,264 +283,182 @@ I enjoy transforming ideas into real-world digital products while continuously i
 
 ---
 
-## <div align="center">🛠️ Tech Stack</div>
+<div align="center">
+
+## <span style="color:#00FF66;">$ experience --summary</span>
+
+</div>
+
+### 💻 Junior Node.js Developer · Dot Com Infoway
+
+`Sep 2024 → Nov 2025`
+
+Worked on full-stack web applications and backend services using:
+
+* **React.js / Next.js** for modern frontend development
+* **Node.js / Express.js** for backend services and REST APIs
+* **MySQL / MongoDB** for database development
+* **Stripe / Firebase** integrations
+* **AWS EC2 / S3** cloud deployment
+* **Linux / PM2 / Nginx** production deployment
+* Responsive and reusable UI development
+* Debugging and performance optimization
+* Agile development and Git-based collaboration
+
+---
 
 <div align="center">
 
-### 💻 Languages
+## <span style="color:#00FF66;">$ architecture --stack</span>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=[LANGUAGE_ICONS]&theme=dark" alt="Languages"/>
+```text
+                    ┌───────────────────────┐
+                    │       FRONTEND        │
+                    │ React.js / Next.js    │
+                    │ Redux / Tailwind CSS  │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │      REST APIs        │
+                    │ Node.js / Express.js  │
+                    └───────────┬───────────┘
+                                │
+                       ┌────────┴────────┐
+                       ▼                 ▼
+              ┌────────────────┐ ┌────────────────┐
+              │     MySQL      │ │    MongoDB     │
+              └────────────────┘ └────────────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │         AWS           │
+                    │ EC2 / S3 / Linux      │
+                    │ PM2 / Nginx           │
+                    └───────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ currently --working-on</span>
+
+</div>
+
+```text
+[████████████████████████████████] 100%
+
+✓ Building full-stack web applications
+✓ Improving Next.js development
+✓ Strengthening TypeScript
+✓ Exploring backend architecture
+✓ Learning system design fundamentals
+✓ Exploring AI-assisted development
+```
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ developer --mindset</span>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### ⚡
+
+**Build**
+
+Turning ideas into
+working products.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+**Solve**
+
+Breaking complex
+problems into solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Improve**
+
+Continuously improving
+code & architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝
+
+**Collaborate**
+
+Learning and building
+with great teams.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ github --stats</span>
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF66&sideNums=FFFFFF&dates=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color:#00FF66;">$ connect</span>
+
+<br>
+
+<a href="mailto:antonyrahul2001@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00FF66?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 <br><br>
 
-### 🎨 Frontend
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=[FRONTEND_ICONS]&theme=dark" alt="Frontend Technologies"/>
-</a>
-
-<br><br>
-
-### ⚙️ Backend & Databases
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=[BACKEND_DATABASE_ICONS]&theme=dark" alt="Backend and Databases"/>
-</a>
-
-<br><br>
-
-### ☁️ Cloud, DevOps & Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=[TOOLS_ICONS]&theme=dark" alt="Tools and Technologies"/>
-</a>
-
-</div>
-
----
-
-## <div align="center">🚀 What I Build</div>
-
-<div align="center">
-
-| 💡 Area | 🔧 Technologies |
-|:---:|:---|
-| **Frontend Development** | [YOUR_FRONTEND_TECHNOLOGIES] |
-| **Backend Development** | [YOUR_BACKEND_TECHNOLOGIES] |
-| **Database Development** | [YOUR_DATABASES] |
-| **REST APIs** | [YOUR_API_TECHNOLOGIES] |
-| **Cloud & Deployment** | [YOUR_CLOUD_TECHNOLOGIES] |
-| **Payment Integration** | [YOUR_PAYMENT_TECHNOLOGIES] |
-
-</div>
-
----
-
-## <div align="center">📊 GitHub Analytics</div>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-## <div align="center">🔥 GitHub Streak</div>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&currStreakNum=00FF66&sideNums=FFFFFF&dates=FFFFFF"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## <div align="center">📈 Contribution Activity</div>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=000000&color=FFFFFF&line=00FF66&point=00FF66&area=true&area_color=00FF66&hide_border=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-## <div align="center">🐍 Contribution Snake</div>
-
-<div align="center">
-
-<!--
-  GitHub Action:
-  https://github.com/Platane/snk
-
-  Create:
-  .github/workflows/snake.yml
-
-  The workflow generates:
-  output/github-contribution-grid-snake.svg
-
-  Example workflow:
-
-  name: Generate Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00FF66
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            build_dir: dist
-          env:
-            GH_PAT: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</picture>
-
-</div>
-
----
-
-## <div align="center">📌 Featured Projects</div>
-
-<div align="center">
-
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_1]">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_1]&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF"
-    alt="[YOUR_PROJECT_1]"
-  />
-</a>
-
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_2]">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_2]&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF"
-    alt="[YOUR_PROJECT_2]"
-  />
-</a>
+### <span style="color:#00FF66;">Open to opportunities, collaboration & interesting projects.</span>
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_3]">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_3]&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF"
-    alt="[YOUR_PROJECT_3]"
-  />
-</a>
-
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_4]">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_4]&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF"
-    alt="[YOUR_PROJECT_4]"
-  />
-</a>
-
-</div>
-
----
-
-## <div align="center">🌱 Currently Learning</div>
-
-<div align="center">
-
-`[LEARNING_1]`
-&nbsp; 🟢 &nbsp;
-`[LEARNING_2]`
-&nbsp; 🟢 &nbsp;
-`[LEARNING_3]`
-&nbsp; 🟢 &nbsp;
-`[LEARNING_4]`
-
-</div>
-
----
-
-## <div align="center">🤝 Let's Connect</div>
-
-<div align="center">
-
-<a href="[YOUR_LINKEDIN_URL]">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
-</a>
-
-<a href="[YOUR_X_URL]">
-  <img src="https://img.shields.io/badge/X-00FF66?style=for-the-badge&logo=x&logoColor=000000" alt="X"/>
-</a>
-
-<a href="[YOUR_INSTAGRAM_URL]">
-  <img src="https://img.shields.io/badge/Instagram-00FF66?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/>
-</a>
-
-<a href="[YOUR_TIKTOK_URL]">
-  <img src="https://img.shields.io/badge/TikTok-00FF66?style=for-the-badge&logo=tiktok&logoColor=000000" alt="TikTok"/>
-</a>
-
-<a href="[YOUR_YOUTUBE_URL]">
-  <img src="https://img.shields.io/badge/YouTube-00FF66?style=for-the-badge&logo=youtube&logoColor=000000" alt="YouTube"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
-</a>
-
-</div>
+`Let's build something great. 🚀`
 
 <br>
 
-<div align="center">
-
-### <span style="color:#00FF66">💚 Thanks for visiting my profile!</span>
-
-**[YOUR_SHORT_PERSONAL_MESSAGE]**
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                       WAVING FOOTER                       -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=140&section=footer"
-  width="100%"
-  alt="Waving Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
 
 </div>
